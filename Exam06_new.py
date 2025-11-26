@@ -101,7 +101,7 @@ while True:
             delete_entries()
 
         case 5:
-            print("\nThank you for using the Journal. Goodbye!")
+            print("\nThank you for using the Journal. Goodbye!!")
             break
 
         case _:
